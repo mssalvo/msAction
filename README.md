@@ -18,10 +18,13 @@ Lightweight Java java management tool manages responses in json, xml, and html f
         <servlet-name>ActionManager</servlet-name>
         <url-pattern>*.am</url-pattern>
     </servlet-mapping>
- 
- ## Example generate json, xml and html responses:
- #### Class declaration
- 
+
+
+## Example generate json, xml and html responses
+
+#### Class declaration
+
+
  public class Agenda implements IAction{
  
  @Override
