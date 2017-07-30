@@ -164,3 +164,5 @@ public ActionType CONF_GSON(IConfigureGson configureGson)
 #### CONF_MARSHALLER
 public ActionType CONF_MARSHALLER(IConfigureMarshaller confMarshaller)
 
+## :)
+#### You have everything you need to be able to work without stress, you can go big with the custom methods available
