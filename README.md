@@ -66,3 +66,11 @@ Lightweight Java java management tool manages responses in json, xml, and html f
       return SUCCESS;
     } 
 }
+
+## Here's how to recall the action
+### For our Agenda class
+#### http://mysite/Agenda.am
+### For our MyClass class
+#### http://mysite/MyClass.am
+
+##### Lightweight and easy to implement without too many configurations.
